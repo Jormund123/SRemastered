@@ -71,7 +71,7 @@ const GetStarted = () => {
                                         <img
                                             src='/images/documentsRequired/documentsRequired.png'
                                             alt='Document Image'
-                                            className='w-1/2 object-contain rounded-md shadow-lg z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'
+                                            className='w-100% object-contain rounded-md shadow-lg z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'
                                         />
                                         <button
                                             className='absolute top-0 right-0 mt-4 mr-4 text-gray-500 hover:text-gray-900'
